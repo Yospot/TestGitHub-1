@@ -18,6 +18,9 @@ namespace ConsolaTestGitHub
             Console.ReadLine();
             Console.WriteLine("Probando proyecto en comun. Esto es clonar un repositorio online");
             Console.ReadLine();
+            Console.ForegroundColor = ConsoleColor.Green;
+            Console.WriteLine("Funciona :D");
+            Console.ReadLine();
         }
     }
 }
